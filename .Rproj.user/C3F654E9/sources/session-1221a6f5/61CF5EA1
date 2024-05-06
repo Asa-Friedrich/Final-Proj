@@ -1,11 +1,11 @@
 {
     "id": "61CF5EA1",
-    "path": "~/Rstudio/Final Project/AsaFriedrich_website_Math204/index.Rmd",
+    "path": "~/GitHub/Final-Proj/index.Rmd",
     "project_path": "index.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1230319273",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1715023768113.0,
     "source_on_save": false,
     "relative_order": 2,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1715024126,
+    "lastKnownWriteTime": 1715029363,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1715024175364,
+    "last_content_update": 1715029363702,
     "read_only": false,
     "read_only_alternatives": []
 }
